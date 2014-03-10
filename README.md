@@ -1,3 +1,5 @@
+The repo has been shifted to https://github.com/fontforge/fontforge/tree/master/pycontrib/FontCompare .
+The current version can be found there.
 FontCompare
 ===========
 
